@@ -1,0 +1,11 @@
+server:
+  port: 4001
+
+logging.config: classpath:logback.xml
+debug: true
+
+
+
+
+
+
